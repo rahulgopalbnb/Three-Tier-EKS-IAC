@@ -22,7 +22,7 @@ https://aws.amazon.com/cli/
 #update the Kubernetes context
 aws eks update-kubeconfig --name my-eks-cluster --region us-west-2
 
-# verify access:
+# verify access :
 ```
 kubectl auth can-i "*" "*"
 kubectl get nodes
