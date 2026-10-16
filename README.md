@@ -1,4 +1,4 @@
-# DevOps Project Report: Three-Tier-EKS-IAC
+# DevOps Project Report: Three-Tier-EKS-IAC 
 
 **Author:** Rahul Gopal
 **Date:** March 16, 2026
